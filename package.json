@@ -1,0 +1,19 @@
+{
+  "name": "express-microservice-gateway",
+  "version": "1.0.0",
+  "description": "a library to assist with managing microservices in node/express apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewtweber1992/express-microservice-gateway.git"
+  },
+  "author": "andrew weber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewtweber1992/express-microservice-gateway/issues"
+  },
+  "homepage": "https://github.com/andrewtweber1992/express-microservice-gateway#readme"
+}
